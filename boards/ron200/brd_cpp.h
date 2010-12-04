@@ -2,7 +2,7 @@
  * board.h
  *
  *  Created on: 2010-3-11
- *      Author: Miroslav kostadinov
+ *      Author: Miroslav Kostadinov
  *
  *
  *  This file should provide all core and mcu specific defines and types.
